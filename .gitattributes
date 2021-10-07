@@ -1,2 +1,0 @@
-Documents/case_neoway/data/raw/individuos_espec.csv filter=lfs diff=lfs merge=lfs -text
-Documents/case_neoway/data/processed/ind_df_filled_knn.csv filter=lfs diff=lfs merge=lfs -text
