@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Other files
+# Other files and folders
 *.pdf
+*.ppt
+*.pptx
+images/
