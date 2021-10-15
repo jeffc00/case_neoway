@@ -129,7 +129,5 @@ dmypy.json
 .pyre/
 
 # Other files and folders
-*.pdf
 *.ppt
 *.pptx
-images/
