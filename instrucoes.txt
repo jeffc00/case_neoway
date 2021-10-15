@@ -4,3 +4,5 @@ Uilize o terminal ou um prompt do Anaconda e siga as seguintes etapas:
 2. Ative o novo ambiente: conda activate case_neoway
 3. Verifique se o novo ambiente foi instalado corretamente: conda env list
 4. Abrir o Jupyter ou o JupyterLab no Anaconda e rodar o notebook case_neoway.ipynb
+
+Repositório do case no github: https://github.com/jeffc00/case_neoway
